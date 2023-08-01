@@ -1,0 +1,26 @@
+{
+  "items": [
+    {
+      "externalId": "us-east-2",
+      "title": "us-east-2",
+      "location": {
+        "municipality": "Johnstown",
+        "region": "OH",
+        "country": "USA",
+        "postalCode": "43031",
+        "description": "AWS us-east-2",
+        "lat": "40.1052275",
+        "lng": "-82.9474563"
+      },
+      "query": "FROM Transaction SELECT average(duration) FACET entityGuid, appName WHERE entityGuid in ('MjQyNzM4MnxBUE18QVBQTElDQVRJT058MzQ1MTg3MDg4')",
+      "entities": [
+        {
+          "guid": "MjQyNzM4MnxOUjF8V09SS0xPQUR8NjE5MzE",
+          "entityType": "WORKLOAD_ENTITY"
+        }
+      ],
+      "contactEmail": "throck@newrelic.com",
+      "runbookUrl": "https://docs.google.com/document/d/1NOWVNqJ9G8Ks5jIf2HVRj2CLP0Mjui1FsaIqs7kXy-Y/edit"
+    }
+  ]
+}

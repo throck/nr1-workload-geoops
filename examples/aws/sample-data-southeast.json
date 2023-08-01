@@ -1,0 +1,26 @@
+{
+  "items": [
+    {
+      "externalId": "us-east-1",
+      "title": "us-east-1",
+      "location": {
+        "municipality": "Ashburn",
+        "region": "VA",
+        "country": "USA",
+        "postalCode": "20147",
+        "description": "AWS us-east-1",
+        "lat": "39.0005066",
+        "lng": "-77.4794089"
+      },
+      "query": "FROM Transaction SELECT average(duration) FACET entityGuid, appName WHERE entityGuid in ('MjQyNzM4MnxBUE18QVBQTElDQVRJT058MzQ1MTg3MDg3')",
+      "entities": [
+        {
+          "guid": "MjQyNzM4MnxOUjF8V09SS0xPQUR8NjE5MzA",
+          "entityType": "WORKLOAD_ENTITY"
+        }
+      ],
+      "contactEmail": "throck@newrelic.com",
+      "runbookUrl": "https://docs.google.com/document/d/1NOWVNqJ9G8Ks5jIf2HVRj2CLP0Mjui1FsaIqs7kXy-Y/edit"
+    }
+  ]
+}

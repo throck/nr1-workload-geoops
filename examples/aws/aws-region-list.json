@@ -1,0 +1,30 @@
+[
+  {
+    "awsRegion": "us-east-1",
+    "regionDescription": "AWS us-east-1",
+    "regionCity": "Ashburn",
+    "regionState": "VA",
+    "regionZip": "20147",
+    "regionCountry": "USA",
+    "geoLat": "39.0005066",
+    "geoLng": "-77.4794089",
+    "statusQueryGuid": "MjQyNzM4MnxBUE18QVBQTElDQVRJT058MzQ1MTg3MDg3",
+    "workloadGuid": "MjQyNzM4MnxOUjF8V09SS0xPQUR8NjE5MzA",
+    "runbookURL": "https://docs.google.com/document/d/1NOWVNqJ9G8Ks5jIf2HVRj2CLP0Mjui1FsaIqs7kXy-Y/edit",
+    "contact": "throck@newrelic.com"
+  },
+  {
+    "awsRegion": "us-east-2",
+    "regionDescription": "AWS us-east-2",
+    "regionCity": "Johnstown",
+    "regionState": "OH",
+    "regionZip": "43031",
+    "regionCountry": "USA",
+    "geoLat": "40.1052275",
+    "geoLng": "-82.9474563",
+    "statusQueryGuid": "MjQyNzM4MnxBUE18QVBQTElDQVRJT058MzQ1MTg3MDg4",
+    "workloadGuid": "MjQyNzM4MnxOUjF8V09SS0xPQUR8NjE5MzE",
+    "runbookURL": "https://docs.google.com/document/d/1NOWVNqJ9G8Ks5jIf2HVRj2CLP0Mjui1FsaIqs7kXy-Y/edit",
+    "contact": "throck@newrelic.com"
+  }
+]
